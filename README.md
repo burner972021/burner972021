@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 jc1 student from HCI. interested in maths ,science research, gamedev.
+
 i do cybersecurity, computing, & art. 
