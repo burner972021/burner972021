@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 jc1 student from HCI. interested in maths ,science research, gamedev.
 
-i do cybersecurity, computing, & art. 
+i do cybersecurity, computing, & art. pls give me an internship ^^
