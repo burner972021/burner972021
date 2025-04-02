@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-jc1 student from HCI. interested in maths ,science research, gamedev.
+JC1 student from HCI. Interested in Maths, Science Research & Gamedev.
 
-i do cybersecurity, computing, & art. pls give me an internship ^^
+Currently I do cybersecurity, computing, & art. Pleeeeaaaaasseeeee give me an internship ^^
+
+[Link]([url](https://github.com/burner972021/burner972021/blob/main/CV.pdf)) to my resume
