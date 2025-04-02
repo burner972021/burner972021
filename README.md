@@ -18,4 +18,4 @@ JC1 student from HCI. Interested in Maths, Science Research & Gamedev.
 
 Currently I do cybersecurity, computing, & art. Pleeeeaaaaasseeeee give me an internship ^^
 
-[Link]([url](https://github.com/burner972021/burner972021/blob/main/CV.pdf)) to my resume
+[Link](CV.pdf) to my resume
