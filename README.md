@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 JC1 student from HCI. Interested in Maths, Science Research & Gamedev.
 
-Currently I do cybersecurity, computing, & art. Pleeeeaaaaasseeeee give me an internship ^^
+Currently I do Cybersecurity, Computing, & Art. Looking for an internship 💔💔💔
 
 [Link](CV.pdf) to my resume
