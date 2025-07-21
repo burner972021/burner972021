@@ -6,4 +6,4 @@ Currently I do Cybersecurity, Computing, & Art. Looking for an internship ðŸ’”ðŸ
 
 [Link](CV.pdf) to my resume
 
-[my blog!](https://burner972021.github.io/)
+Link to [my blog!](https://burner972021.github.io/) (still a work in progress) You can find my CTF writeups, learning notes, and other projects here :)
