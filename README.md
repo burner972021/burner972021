@@ -1,6 +1,6 @@
 ## QUESTION: What's bigger than a tuna?
 
-JC2 student from HCI. Interested in Mathematics, Science Research, and Cybersecurity. I am currently working as a project intern @ A*STAR IMRE :) My project details can be found in my blog (when it is done...)
+JC2 student from HCI. Interested in Quantum Computing, Science Research, and Cybersecurity. Prev. working as a project intern @ A*STAR IMRE :)
 
 [Resume](CaoXizhen_Resume.pdf) | [Linkedin](https://linkedin.com/in/caoxizhen/)
 
